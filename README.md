@@ -2,6 +2,8 @@
 App Desenvolvido em React Native por David Alexandre Fernandes
 
 ############################################################################################
+CÓDIGO ESTÁ EM app.js
+############################################################################################
 
 ****Instalar o Chocolatey:****
 https://chocolatey.org/
