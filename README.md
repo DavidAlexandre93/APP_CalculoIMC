@@ -1,7 +1,7 @@
 # APP_CalculoIMC
 App Desenvolvido em React Native por David Alexandre Fernandes
 
-###########################################################################################################
+############################################################################################
 
 ****Instalar o Chocolatey:****
 https://chocolatey.org/
@@ -15,25 +15,25 @@ https://developer.android.com/studio/index.html
 ****Selecionar o SDK Manager android para ser executado****
 
 ****Configurar na variavel do sistema o ANDROID_HOME****
-****Setar o caminho do SDK****
+****Setar o caminho do SDK:****
 c:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk
 
-****Setar o caminho do plataform tools****
+****Setar o caminho do plataform tools:****
 c:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk\platform-tools
 
-###########################################################################################################
+############################################################################################
 
-****Executar o seguinte comando abaixo no CMD com local desejado para o seu projeto****
+****Executar o seguinte comando abaixo no CMD com local desejado para o seu projeto:****
 react-native init NomeDoSeuProjeto
 
 ***Criar um Device no AVD Manager e executar o Emulador Android no Android Studio****
 
-****Acessar a pasta do seu projeto e executar o seguinte comando para iniciar o aplicativo****
+****Acessar a pasta do seu projeto e executar o seguinte comando para iniciar o aplicativo:****
 react-native run-android ou react-native run-ios
 
-###########################################################################################################
+############################################################################################
 
-****Link mais detalhado com o tutorial****
+****Link mais detalhado com o tutorial:****
 https://facebook.github.io/react-native/docs/getting-started
 
 
