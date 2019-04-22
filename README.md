@@ -1,9 +1,23 @@
 # APP_CalculoIMC
 App Desenvolvido em React Native por David Alexandre Fernandes
 
+### INICIAR PROJETO ###
 ############################################################################################
 CÓDIGO ESTÁ EM App.js
 ############################################################################################
+*** Baixar as dependencias do projeto ***
+*** Acessar o projeto pelo CMD na pasta do projeto digitar o comando abaixo ***
+npm install 
+############################################################################################
+***Criar um Device no AVD Manager e executar o Emulador Android no Android Studio****
+
+****Acessar a pasta do seu projeto e executar o seguinte comando para iniciar o aplicativo:****
+react-native run-android ou react-native run-ios
+############################################################################################
+
+
+############################################################################################
+### CONFIGURAÇÕES ###
 
 ****Instalar o Chocolatey:****
 https://chocolatey.org/
